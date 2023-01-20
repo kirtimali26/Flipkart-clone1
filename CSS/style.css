@@ -95,14 +95,10 @@ nav ul li a:hover{
     flex-direction: column;
     margin: 0px 15px;
 }
-/* .card-items{
+ .card-items{
     display:inline-flex;
-    
-    /* width: 15vw; */
-   
-    /* justify-content:center; */
     flex-direction:column;
-}  */
+}  
 
 .lines{
     display:inline-flex;
@@ -123,9 +119,6 @@ footer{
     font-family: 'Roboto', sans-serif;
    
 }
-/* .my-1{
-    margin: 6px 0;
-} */
 
 .my-2{
     margin: 26px 0;
